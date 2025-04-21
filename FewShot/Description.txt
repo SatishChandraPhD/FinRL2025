@@ -1,0 +1,1 @@
+This folder contains the files for creating sentimnent signals using DeepSeek-V3 for the few shot prompting approach  
