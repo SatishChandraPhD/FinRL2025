@@ -1,1 +1,1 @@
-
+This folder contains the model files for evaluation of Few Shot prompt based RL Trading Agent with respect to the Reference Paper's prompt based RL Trading Agent.  
