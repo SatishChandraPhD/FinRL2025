@@ -1,1 +1,2 @@
+This folder contains the .ipynb file for evaluation of counterfactual prompt based RL Trading Agent with respect to the Reference Paper's prompt based RL Trading Agent and the data files for the evaluation
 
