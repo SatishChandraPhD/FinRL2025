@@ -1,1 +1,2 @@
 This folder contains the files for creating sentimnent signals using DeepSeek-V3 for the chain of thought prompting approach
+and then combining the trade data and sentiment data to provide input for training RL Trading Agent
